@@ -29,20 +29,27 @@ I have worked on real-world mobile and backend systems involving:
 
 ## Featured public work
 
+### [Flutter Product Demo](https://github.com/desmond55500/flutter-product-demo)
+
+A polished Flutter catalog app demonstrating feature-based structure, state management, repository abstraction, responsive UI, filtering, navigation, tests, and CI.
+
+**Stack:** Flutter · Dart · Provider · Material 3 · Flutter Test
+
 ### [FastAPI Production Starter](https://github.com/desmond55500/fastapi-production-starter)
 
-A public-safe backend project built from scratch to demonstrate production-minded API engineering without exposing company code.
+A production-minded backend starter demonstrating API design, validation, SQLAlchemy, PostgreSQL-ready configuration, Docker, testing, architecture documentation, and CI.
 
-**Includes:** FastAPI · SQLAlchemy · PostgreSQL-ready configuration · Pydantic validation · Docker · Pytest · GitHub Actions
+**Stack:** Python · FastAPI · SQLAlchemy · PostgreSQL · Docker · Pytest
 
-### More demos in progress
+### [Realtime Notification Demo](https://github.com/desmond55500/realtime-notification-demo)
 
-I'm converting selected skills from private production work into independent public examples, including:
+A full-stack Flutter + FastAPI demo for device registration, typed notification payloads, push-provider abstraction, and deep-link style routing.
 
-- a polished Flutter product app with authentication and API integration
-- a realtime Flutter + FastAPI notification/deep-link demo
+**Stack:** Flutter · Dart · Python · FastAPI · Push architecture · GitHub Actions
 
-These projects will contain **no company source code, internal APIs, private data, or proprietary business logic**.
+## Private production work
+
+My commercial/company repositories remain private. I do not publish employer source code, credentials, internal APIs, customer data, or proprietary business logic. The projects above are independent implementations used to demonstrate engineering skills safely.
 
 ## What I'm looking for
 
