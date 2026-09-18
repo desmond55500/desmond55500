@@ -4,7 +4,7 @@
 
 I build mobile applications and backend services, with a focus on clean API integrations, authentication, notifications, data-driven features, and reliable deployment workflows.
 
-> A significant part of my production work is private because it belongs to companies and client projects. Public repositories here are used to demonstrate my engineering approach without exposing proprietary source code.
+> A significant part of my production work is private because it belongs to companies and client projects. Public repositories here demonstrate my engineering approach without exposing proprietary source code.
 
 ## What I work with
 
@@ -12,7 +12,7 @@ I build mobile applications and backend services, with a focus on clean API inte
 - **Backend:** Python, FastAPI, REST APIs
 - **Data:** PostgreSQL, SQLAlchemy
 - **Cloud & Messaging:** Firebase, Firebase Cloud Messaging
-- **Engineering:** Git, GitHub, Linux servers, CI/CD workflows
+- **Engineering:** Git, GitHub, Linux servers, Docker, CI/CD workflows
 - **Integration:** JWT authentication, OTP flows, file uploads, push notifications
 
 ## Production experience
@@ -27,20 +27,22 @@ I have worked on real-world mobile and backend systems involving:
 - Linux deployment, database migrations, and service management
 - Git-based collaboration and automated deployment workflows
 
-## Portfolio
+## Featured public work
 
-I'm currently turning selected skills from my private production work into independent public demo projects. These demos are intentionally built from scratch and do **not** contain company code, internal APIs, private data, or proprietary business logic.
+### [FastAPI Production Starter](https://github.com/desmond55500/files)
 
-### Planned public showcases
+A public-safe backend project built from scratch to demonstrate production-minded API engineering without exposing company code.
 
-**Flutter Product App**  
-A polished Flutter application demonstrating responsive UI, state handling, API integration, authentication, loading/error states, and clean project structure.
+**Includes:** FastAPI · SQLAlchemy · PostgreSQL-ready configuration · Pydantic validation · Docker · Pytest · GitHub Actions
 
-**FastAPI Production API**  
-A backend service demonstrating authentication, PostgreSQL, migrations, validation, testing, Docker-ready configuration, and production-minded API design.
+### More demos in progress
 
-**Realtime Notification Demo**  
-A Flutter + FastAPI example showing device registration, push-notification delivery, deep-link routing, and notification-state handling.
+I'm converting selected skills from private production work into independent public examples, including:
+
+- a polished Flutter product app with authentication and API integration
+- a realtime Flutter + FastAPI notification/deep-link demo
+
+These projects will contain **no company source code, internal APIs, private data, or proprietary business logic**.
 
 ## What I'm looking for
 
@@ -52,4 +54,4 @@ If you're hiring or building something interesting, feel free to reach out throu
 
 ### Current focus
 
-`Flutter` · `Dart` · `Python` · `FastAPI` · `PostgreSQL` · `Firebase` · `REST APIs` · `Git` · `Linux`
+`Flutter` · `Dart` · `Python` · `FastAPI` · `PostgreSQL` · `Firebase` · `Docker` · `REST APIs` · `Git` · `Linux`
