@@ -29,7 +29,7 @@ I have worked on real-world mobile and backend systems involving:
 
 ## Featured public work
 
-### [FastAPI Production Starter](https://github.com/desmond55500/files)
+### [FastAPI Production Starter](https://github.com/desmond55500/fastapi-production-starter)
 
 A public-safe backend project built from scratch to demonstrate production-minded API engineering without exposing company code.
 
